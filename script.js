@@ -7,7 +7,7 @@ const businesses = [
     {name: 'Game On', desc: 'El negocio es un centro tecnológico integral dedicado a la venta y reparación de equipos electrónicos y sus accesorios, complementado con la prestación de servicios de sala de internet y videojuegos.', logo: 'Logos/gameon.jpeg', url: 'https://hernandezquirogaca.wixsite.com/game-on'},
     {name: 'Max Sports', desc: 'Somos una empresa especializada en calzado deportivo para ofrecer mayor rendimiento en las actividades deportivas.', logo: 'Logos/maxsports.png', url: 'https://marinsergio1208.wixsite.com/max-sports'},
     {name: 'L\'aura', desc: 'Un negocio de spa ofrece servicios enfocados en el bienestar, la relajación y el cuidado personal. Brinda tratamientos como masajes, faciales, aromaterapia, manicura, pedicura y terapias corporales, en un ambiente tranquilo y armonioso.🌷🪻', logo: 'Logos/laura.jpeg', url: 'https://lalavidal426.wixsite.com/my-site-2'},
-    {name: 'Caps City', desc: 'Un negocio de gorras se dedica a la venta y personalización de gorras de distintos estilos, colores y materiales.👑🧢', logo: 'Logos/Logotipo.png', url: 'https://tsamu519.wixsite.com/caps-city'},
+    {name: 'Caps City', desc: 'Un negocio de gorras se dedica a la venta y personalización de gorras de distintos estilos, colores y materiales.👑🧢', logo: 'Logos/logotipo.png', url: 'https://tsamu519.wixsite.com/caps-city'},
     {name: 'Aura beauty', desc: 'Es una tienda de productos de belleza y cuidado personal que se enfoca en la calidad y la curacion para ofrecer experiencias simples que mejoren  tu rutina diaria.💕🌸', logo: 'Logos/aurabeauty.jpeg', url: 'https://menesesxochitl72.wixsite.com/aura-beauty'},
 ];
     
