@@ -1,14 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Hello World</title>
-  <link href='/style.css' rel='stylesheet'>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Plaza 25 — Promoción</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Hello, world!</h1>
-  <button onclick="console.log('hello');">Press me</button>
-  <script defer type="text/javascript" src="/main.js"></script>
+  <header class="hero">
+    <div class="container">
+      <h1 class="title">Plaza 25</h1>
+      <p class="subtitle">Bienvenido a nuestra promo</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="business-list" class="business-grid" aria-label="Lista de negocios"></section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">© Plaza 25 — Promoción • 10 negocios</div>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
